@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "love you my wifey",
+    titleWeb: "just a project",
 
     background: "background.jpg",
 
