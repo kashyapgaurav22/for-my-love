@@ -189,7 +189,7 @@ li {
     transform: rotateY(90deg) translateZ(300px);
     width: 400px;
     height: 400px;
-    opacity: 0.8;
+    opacity: 0.9;
     left: -100px;
     top: -100px;
 }
